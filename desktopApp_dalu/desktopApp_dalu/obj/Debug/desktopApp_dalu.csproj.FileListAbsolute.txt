@@ -7,3 +7,4 @@ C:\Users\braya\OneDrive\Desktop\BAER\desktopApp_dalu\desktopApp_dalu\desktopApp_
 C:\Users\braya\OneDrive\Desktop\BAER\desktopApp_dalu\desktopApp_dalu\desktopApp_dalu\obj\Debug\desktopApp_dalu.csproj.CoreCompileInputs.cache
 C:\Users\braya\OneDrive\Desktop\BAER\desktopApp_dalu\desktopApp_dalu\desktopApp_dalu\obj\Debug\desktopApp_dalu.exe
 C:\Users\braya\OneDrive\Desktop\BAER\desktopApp_dalu\desktopApp_dalu\desktopApp_dalu\obj\Debug\desktopApp_dalu.pdb
+C:\Users\braya\OneDrive\Desktop\BAER\desktopApp_dalu\desktopApp_dalu\desktopApp_dalu\obj\Debug\desktopApp_dalu.Form1.resources
