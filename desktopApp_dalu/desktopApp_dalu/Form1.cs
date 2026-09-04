@@ -16,5 +16,10 @@ namespace desktopApp_dalu
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            // call to inventory form
+        }
     }
 }
